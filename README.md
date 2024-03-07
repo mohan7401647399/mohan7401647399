@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">A passionate Junior MERN developer from India</h3>
+    
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="profile" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan7401647399&label=Profile%20views&color=0e75b6&style=flat" alt="mohan7401647399" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan7401647399" alt="mohan7401647399" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+    - 🌱 I’m currently learning ** MERN **
 
-- 👨‍💻 All of my projects are available at [https://merry-daffodil-f87227.netlify.app](https://merry-daffodil-f87227.netlify.app)
+        - 👨‍💻 All of my projects are available at[https://merry-daffodil-f87227.netlify.app](https://merry-daffodil-f87227.netlify.app)
 
-- 💬 Ask me about **react, Nodejs**
+- 💬 Ask me about ** react, Nodejs **
 
-- 📫 How to reach me **mtm.kcs@gmail.com**
+    - 📫 How to reach me ** mtm.kcs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
