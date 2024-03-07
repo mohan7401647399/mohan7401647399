@@ -1,5 +1,3 @@
-[![MasterHead](https://wallpapercave.com/wp/wp8903914.jpg)](https://wallpapercave.com/wp/wp8903914.jpg)
-
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">A passionate Junior MERN developer from India</h3>
     
