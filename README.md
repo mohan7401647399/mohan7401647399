@@ -1,3 +1,5 @@
+<img src="[https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FGD6BUzzZs1VJLuY.gif](https://wallpapercave.com/wp/wp8903914.jpg)" alt="banner" />
+
 <h1 align="center">Hi 👋, I'm Mohan</h1>
 <h3 align="center">A passionate Junior MERN developer from India</h3>
     
