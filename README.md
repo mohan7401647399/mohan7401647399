@@ -9,7 +9,7 @@
 
     - 🌱 I’m currently learning ** MERN **
 
-        - 👨‍💻 All of my projects are available at[https://merry-daffodil-f87227.netlify.app](https://merry-daffodil-f87227.netlify.app)
+        - 👨‍💻 All of my projects are available at https://merry-daffodil-f87227.netlify.app
 
 - 💬 Ask me about ** react, Nodejs **
 
