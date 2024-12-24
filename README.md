@@ -9,7 +9,7 @@
 
     - 🌱 I'm seeking exciting opportunities as a ***MERN*** stack developer where I can apply my skills in building dynamic, full-stack web applications
 
-        - 👨‍💻 PORTFOLIO - ** https://merry-daffodil-f87227.netlify.app **
+        - 👨‍💻 PORTFOLIO - ** https://mohandev.netlify.app/ **
 
 - 💬 Ask me about ** react, Nodejs, Nextjs, react native, python **
 
