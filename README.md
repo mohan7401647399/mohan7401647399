@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan7401647399" alt="mohan7401647399" /></a> </p>
 
-    - 🌱 I’m currently learning ** MERN **
+    - 🌱 I'm seeking exciting opportunities as a ***MERN*** stack developer where I can apply my skills in building dynamic, full-stack web applications
 
         - 👨‍💻 PORTFOLIO - ** https://merry-daffodil-f87227.netlify.app **
 
-- 💬 Ask me about ** react, Nodejs **
+- 💬 Ask me about ** react, Nodejs, Nextjs, react native, python **
 
     - 📫 How to reach me ** mtm.kcs@gmail.com**
 
