@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan7401647399" alt="mohan7401647399" /></a> </p>
 
-- 🌱 I'm seeking exciting opportunities as a ***MERN*** stack developer where I can apply my skills in building dynamic, full-stack web applications
+- 🌱 I'm seeking exciting opportunities as a ***JAVA fullstack*** & ***MERN*** stack developer where I can apply my skills in building dynamic, full-stack web applications
 
     - 👨‍💻 PORTFOLIO - ** https://mohandev.netlify.app/ ** 
 
