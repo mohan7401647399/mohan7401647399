@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan</h1>
-<h3 align="center">A passionate Junior JAVA fullstack & MERN developer from India</h3>
+<h3 align="center">A passionate Junior JAVA fullstack developer from India</h3>
     
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="profile" />
 
