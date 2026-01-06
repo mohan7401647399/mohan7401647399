@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan</h1>
-<h3 align="center">A passionate Junior JAVA fullstack developer from India</h3>
+<h3 align="center">An enthusiastic JAVA fullstack developer from India.</h3>
     
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="profile" />
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan7401647399" alt="mohan7401647399" /></a> </p>
 
-- 🌱 I'm seeking exciting opportunities as a ***JAVA fullstack*** & ***MERN*** stack developer where I can apply my skills in building dynamic, full-stack web applications
+- 🌱 I'm seeking exciting opportunities as a ***JAVA fullstack*** stack developer where I can apply my skills in building dynamic, full-stack web applications
 
     - 👨‍💻 PORTFOLIO - ** https://mohandev.netlify.app/ ** 
 
