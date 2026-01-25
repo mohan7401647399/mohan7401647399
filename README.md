@@ -3,9 +3,9 @@
     
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="profile" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan7401647399&label=Profile%20views&color=0e75b6&style=flat" alt="mohan7401647399" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan7401647399&label=Profile%20views&color=0e75b6&style=flat" alt="Mohan070296" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan7401647399" alt="mohan7401647399" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohan070296" alt="Mohan070296" /></a> </p>
 
 - 🌱 I'm seeking exciting opportunities as a ***JAVA fullstack*** stack developer where I can apply my skills in building dynamic, full-stack web applications
 
